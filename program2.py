@@ -13,3 +13,4 @@ elif time >=1 and time <= 5:
     print("Ночь")
 elif time <=0 or time >= 25:
     print ("такого времени не существует")
+print(goodbye.)
